@@ -1,4 +1,4 @@
-## Welcome to Homework1
+## WELCOME TO HOMEWORK1’S PAGE
 
 You can use the [editor on GitHub](https://github.com/littlewc/littlewc.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
