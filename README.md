@@ -1,3 +1,3 @@
 <center>
-  <font face="黑体">littlewc's home</font>
+  <font size = "10" face="黑体">littlewc's home</font>
 </center>
