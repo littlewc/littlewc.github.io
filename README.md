@@ -1,1 +1,1 @@
-WELCOME TO HOMEWORK1’S PAGE
+<center>这一行需要居中</center>
