@@ -1,1 +1,2 @@
-<center>这一行需要居中</center>
+<title>welcome</title>
+<center>littlewc's home</center>
